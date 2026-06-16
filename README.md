@@ -9,5 +9,4 @@ Blocks the Riot Client until you solve a LeetCode problem. Solve one, earn a ses
 
 - **[Setup guide](docs/setup.md)**
 - [Usage & commands](docs/usage.md)
-- [Architecture](docs/architecture.md)
 - [Deactivation](docs/deactivation.md)
